@@ -1,0 +1,1 @@
+& dotnet watch run --project ./src/Aqua.TestProject/Aqua.TestProject.csproj

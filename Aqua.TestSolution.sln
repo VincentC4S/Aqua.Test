@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aqua.TestProject", "Aqua.TestProject\Aqua.TestProject.csproj", "{BA2B9A71-B2EC-4C30-A4AC-349EFF806877}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "..\build\_build.csproj", "{79D4121A-3264-4C21-A9B3-2985614FFE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D4121A-3264-4C21-A9B3-2985614FFE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D4121A-3264-4C21-A9B3-2985614FFE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2B9A71-B2EC-4C30-A4AC-349EFF806877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2B9A71-B2EC-4C30-A4AC-349EFF806877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2B9A71-B2EC-4C30-A4AC-349EFF806877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2B9A71-B2EC-4C30-A4AC-349EFF806877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
