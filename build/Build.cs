@@ -15,7 +15,7 @@ using static Nuke.Common.IO.FileSystemTasks;
 using static Nuke.Common.IO.PathConstruction;
 
 [GitHubActions("workflow", GitHubActionsImage.WindowsServer2019, AutoGenerate = true, On = [GitHubActionsTrigger.Push])]
-class Build : NukeBuild
+public class Build : NukeBuild
 {
     /// Support plugins are available for:
     ///   - JetBrains ReSharper        https://nuke.build/resharper
